@@ -1,3 +1,2 @@
-export function test() {
-  alert('Hello from test!');
-}
+alert('Hello from test!');
+
